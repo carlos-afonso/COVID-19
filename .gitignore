@@ -1,3 +1,4 @@
+.ipynb_checkpoints/*
 notebooks/.ipynb_checkpoints/*
 data/nyc/.ipynb_checkpoints/*
 images/.ipynb_checkpoints/*
