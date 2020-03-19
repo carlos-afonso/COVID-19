@@ -18,4 +18,4 @@ The data used to create the charts above was collected from the [NYC Health Depa
 
 The data and code used to create the charts above are available [here](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}.
 
-This webpage is part of the [COVID-19 open-source project](https://github.com/carlos-afonso/measles){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}.
+This webpage is part of the [COVID-19 open-source project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}.
