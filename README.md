@@ -8,6 +8,6 @@ The number of COVID-19 cases in NYC started growing exponentially in the last fe
 
 <img src="images/nyc-residents-tested-positive-for-covid-19-line.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-The data used to create the chart above was collect from the [NYC Health Department Coronavirus webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page) and is available [here](https://github.com/carlos-afonso/COVID-19).
+The data used to create the chart above was collected from the [NYC Health Department Coronavirus webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page) and is available [here](https://github.com/carlos-afonso/COVID-19).
 
 This webpage is part of the [COVID-19 open-source project](https://github.com/carlos-afonso/measles){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}.
