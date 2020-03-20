@@ -6,7 +6,19 @@ Visualizing the Coronavirus Disease 2019 (COVID-19).
 
 ## New York City (NYC)
 
-**Update (March 19):** The NYC Health Dep. just started sharing more detailed data, but now counting all cases treated in NYC (not only residents as before and as used in the visualizations below). This new and more detailed data is now being shared in this [PDF file](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf). I'll collect and visualize this data soon.
+### NYC's latest numbers
+
+**March 19, 2020:** [Press release](https://www1.nyc.gov/office-of-the-mayor/news/166-20/mayor-de-blasio-nyc-health-hospitals-expand-appointment-only-covid-19-testing-capacity) from the "Office of the Mayor" says:
+
+> *Citywide, there are 3,615 positive cases of COVID-19 and 22 fatalities. Currently, there are 980 cases in Queens, 976 in Manhattan, 1030 in Brooklyn, 436 in the Bronx, and 165 in Staten Island.
+>
+> As of 5PM on March 18th, there were 554 people hospitalized with 169 of those people in the ICU.*
+
+**March 19, 2020, 1:20 pm:** The New York State Department of Health [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases) says that New York City has 2,469 positive cases.
+
+**March 18, 2020, 5:30 pm:** The New York City Health Department [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf) says that there are 2,009 total confirmed COVID-19 cases in NYC.
+
+### NYC charts
 
 The number of COVID-19 cases in NYC (as reported by the NYC Health Dep.) started growing at a faster pace in the last few days. In particular, it more than doubled from yesterday (Mar 17) to today (Mar 18): from 814 to 1871 cases. However, this was fairly expected because 1) this is the expected behavior in the beginning (then the growth should slow down at some point and the curve will form a plateau), and 2) we were behind on the testing (hopefully there is more testing being done now and we'll get better data). Note that this data is about the number of NYC residents tested positive for COVID-19 and, in addition to the delayed testing, this data has another important limitation: the daily attribution of cases is not perfect because 1) it can take more than one day to know the result of a particular test, and 2) the data is not updated at the same time every day. However, this is the only official data currently being provided by the NYC Health Dep. and I'm trying to make the best of it to track and understand the evolution of COVID-19 here in NYC.
 
