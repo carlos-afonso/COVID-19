@@ -12,11 +12,11 @@ Visualizing the Coronavirus Disease 2019 (COVID-19).
 
 **March 19, 2020:** [Press release](https://www1.nyc.gov/office-of-the-mayor/news/166-20/mayor-de-blasio-nyc-health-hospitals-expand-appointment-only-covid-19-testing-capacity) from the "Office of the Mayor" says:
 
-> *Citywide, there are 3,615 positive cases of COVID-19 and 22 fatalities. Currently, there are 980 cases in Queens, 976 in Manhattan, 1030 in Brooklyn, 436 in the Bronx, and 165 in Staten Island.
+> *Citywide, there are 3,615 positive cases of COVID-19 and 22 fatalities. Currently, there are 980 cases in Queens, 976 in Manhattan, 1030 in Brooklyn, 436 in the Bronx, and 165 in Staten Island.*
 >
-> As of 5PM on March 18th, there were 554 people hospitalized with 169 of those people in the ICU.*
+> *As of 5PM on March 18th, there were 554 people hospitalized with 169 of those people in the ICU.*
 
-**March 19, 2020, 1:20 pm:** The New York State Department of Health [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases) says that New York City has 2,469 positive cases.
+**March 19, 2020, 1:20 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases) says that NYC has 2,469 positive cases.
 
 ### NYC charts
 
