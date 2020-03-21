@@ -8,21 +8,17 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-**March 20, 2020, 3:25 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"} says that NYC has **4,408 positive cases**.
+**March 21, 2020, 4:14 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"} says that NYC has **6,211 positive cases**.
 
-**March 19, 2020, 5:30 pm:** New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} says that there are 3,954 total confirmed COVID-19 cases in NYC.
+**March 20, 2020, 5:30 pm:** New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} says that there are 5,683 total confirmed COVID-19 cases and 43 deaths in NYC.
 
-**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/167-20/mayor-de-blasio-demands-help-federal-government){:target="&#95;blank" rel="noopener"} says:
+**March 20, 2020:** [News article](https://www1.nyc.gov/office-of-the-mayor/news/173-20/mayor-de-blasio-issues-new-guidance-new-yorkers){:target="&#95;blank" rel="noopener"} from the Office of the Mayor of New York City says:
 
-> *Citywide, there are 3,954 positive cases of COVID-19 and 26 fatalities. Currently there are 1,042 cases in Queens, 1,038 in Manhattan, 1,195 in Brooklyn, 496 in the Bronx, and 179 in Staten Island.*
-
-**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/166-20/mayor-de-blasio-nyc-health-hospitals-expand-appointment-only-covid-19-testing-capacity){:target="&#95;blank" rel="noopener"} says:
-
-> *As of 5PM on March 18th, there were 554 people hospitalized with 169 of those people in the ICU.*
+> *As of 6:00 PM today, citywide, there 5,683 positive cases of COVID-19 and 43 fatalities. Currently there are 1,514 cases in Queens 1,402 in Manhattan, 1,740 in Brooklyn,736 in the Bronx, and 285 in Staten Island.*
 
 ### NYC charts
 
-**Note (March 20):** The charts below are from March 18. I'll replace them with a more updated version soon.
+**Note (March 21):** The charts below are from March 18. I'll replace them with a more updated version soon.
 
 The number of COVID-19 cases in NYC (as reported by the NYC Health Dep.) started growing at a faster pace in the last few days. In particular, it more than doubled from yesterday (Mar 17) to today (Mar 18): from 814 to 1871 cases. However, this was fairly expected because 1) this is the expected behavior in the beginning (then the growth should slow down at some point and the curve will form a plateau), and 2) we were behind on the testing (hopefully there is more testing being done now and we'll get better data). Note that this data is about the number of NYC residents tested positive for COVID-19 and, in addition to the delayed testing, this data has another important limitation: the daily attribution of cases is not perfect because 1) it can take more than one day to know the result of a particular test, and 2) the data is not updated at the same time every day.
 
