@@ -6,6 +6,19 @@ Visualizing the Coronavirus Disease 2019 (COVID-19).
 
 ## New York City (NYC)
 
+Data and information sources:
+
+* New York City Department of Health:
+  * [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page)
+  * [COVID-19 Daily Data Summary (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf)
+
+* New York State Department of Health:
+  * [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases)
+  * [Press Releases](https://health.ny.gov/press/releases/2020/index.htm)
+
+* Office of the Mayor of New York City:
+    * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page)
+
 ### NYC's latest numbers
 
 **March 20, 2020, 3:25 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases) says that NYC has 4,408 positive cases.
