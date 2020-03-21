@@ -2,21 +2,21 @@
 
 <p style="font-size:75%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 20, 2020)</p>
 
-Visualizing the Coronavirus Disease 2019 (COVID-19).
+Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
 ## New York City (NYC)
 
 ### NYC latest numbers
 
-**March 20, 2020, 3:25 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases) says that NYC has **4,408 positive cases**.
+**March 20, 2020, 3:25 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"} says that NYC has **4,408 positive cases**.
 
-**March 19, 2020, 5:30 pm:** New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf) says that there are 3,954 total confirmed COVID-19 cases in NYC.
+**March 19, 2020, 5:30 pm:** New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} says that there are 3,954 total confirmed COVID-19 cases in NYC.
 
-**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/167-20/mayor-de-blasio-demands-help-federal-government) says:
+**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/167-20/mayor-de-blasio-demands-help-federal-government){:target="&#95;blank" rel="noopener"} says:
 
 > *Citywide, there are 3,954 positive cases of COVID-19 and 26 fatalities. Currently there are 1,042 cases in Queens, 1,038 in Manhattan, 1,195 in Brooklyn, 496 in the Bronx, and 179 in Staten Island.*
 
-**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/166-20/mayor-de-blasio-nyc-health-hospitals-expand-appointment-only-covid-19-testing-capacity) says:
+**March 19, 2020:** Office of the Mayor's [press release](https://www1.nyc.gov/office-of-the-mayor/news/166-20/mayor-de-blasio-nyc-health-hospitals-expand-appointment-only-covid-19-testing-capacity){:target="&#95;blank" rel="noopener"} says:
 
 > *As of 5PM on March 18th, there were 554 people hospitalized with 169 of those people in the ICU.*
 
@@ -39,15 +39,15 @@ The data and code used to create the charts above are available [here](https://g
 ### NYC data and information sources
 
 New York City Department of Health:
-* [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page)
-* [COVID-19 Daily Data Summary (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf)
+* [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
+* [COVID-19 Daily Data Summary (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}
 
 New York State Department of Health:
-* [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases)
-* [Press Releases](https://health.ny.gov/press/releases/2020/index.htm)
+* [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}
+* [Press Releases](https://health.ny.gov/press/releases/2020/index.htm){:target="&#95;blank" rel="noopener"}
 
 Office of the Mayor of New York City:
-* [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page)
+* [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
 
 ---
 
