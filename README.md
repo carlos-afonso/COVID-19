@@ -8,13 +8,9 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-*March 21, 2020, 4:14 pm:* 6,211 positive COVID-19 cases in NYC, according to New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}.
+March 21, 2020, 4:14 pm: **6,211 COVID-19 cases in NYC**, according to New York State Health Department's [County Breakdown of COVID-19 Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}.
 
-*March 20, 2020, 5:30 pm:* 5,683 total confirmed COVID-19 cases and 43 deaths in NYC, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
-
-*March 20, 2020:* [News article](https://www1.nyc.gov/office-of-the-mayor/news/173-20/mayor-de-blasio-issues-new-guidance-new-yorkers){:target="&#95;blank" rel="noopener"} from the Office of the Mayor of New York City says:
-
-> *As of 6:00 PM today, citywide, there 5,683 positive cases of COVID-19 and 43 fatalities. Currently there are 1,514 cases in Queens 1,402 in Manhattan, 1,740 in Brooklyn,736 in the Bronx, and 285 in Staten Island.*
+March 20, 2020, 5:30 pm: **5,683 COVID-19 cases and 43 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
 ### NYC charts
 
