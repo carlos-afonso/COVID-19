@@ -10,7 +10,9 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 March 21, 2020, 5:30 pm: **8,115 cases and 60 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
+<!---
 March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Health Department's [County Breakdown of COVID-19 Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}.
+--->
 
 ### NYC charts
 
