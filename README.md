@@ -14,11 +14,13 @@ March 21, 2020, 5:30 pm: **8,115 cases and 60 deaths in NYC**, according to New 
 March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Health Department's [County Breakdown of COVID-19 Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}.
 --->
 
-### NYC charts
+### NYC cases over time
 
 <img src="images/nyc-covid-19-cases-total-and-new-line.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-The data used to create the chart above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
+### NYC cases by age group
+
+<img src="images/nyc-covid-19-cases-by-age-group.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
 ### NYC official data and information sources
 
@@ -33,6 +35,8 @@ New York State Department of Health:
 
 Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
+
+The data used to create the charts above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
 ---
 
