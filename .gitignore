@@ -1,5 +1,6 @@
 .ipynb_checkpoints/*
-notebooks/.ipynb_checkpoints/*
 data/nyc/.ipynb_checkpoints/*
+data/nyc-health-daily-data-summary/.ipynb_checkpoints/*
 images/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
 README-old*
