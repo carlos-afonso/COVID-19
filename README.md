@@ -8,7 +8,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-**March 21, 2020, 4:14 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"} says that NYC has **6,211 positive cases**.
+**March 21, 2020, 4:14 pm:** New York State Health Department's [County by County Breakdown of Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"} says that NYC has 6,211 positive cases.
 
 **March 20, 2020, 5:30 pm:** New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} says that there are 5,683 total confirmed COVID-19 cases and 43 deaths in NYC.
 
@@ -20,7 +20,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 <img src="images/nyc-covid-19-cases-total-and-new-line.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-The data used to create the charts above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
+The data used to create the chart above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
 ### NYC data and information sources
 
