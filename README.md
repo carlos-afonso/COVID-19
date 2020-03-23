@@ -8,7 +8,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-March 23, 2020, 9:25 am: **12,339 cases and 99 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
+March 23, 2020, 9:35 am: **12,339 cases and 99 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
 <!---
 March 22, 2020: [News article](https://www1.nyc.gov/office-of-the-mayor/news/178-20/mayor-de-blasio-nypd-prepare-enforce-new-guidelines) from the Office of the Mayor of New York City says:
@@ -19,7 +19,7 @@ March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Hea
 
 ### NYC cases over time
 
-Note that today's (March 23) data is incomplete because it's only as of 9:25 am. This is particularly relevant when looking at the trends in the plots below (total cases and new cases over time), because the last data point (in both plots) is very likely to go up once we get the data for the full day.
+Note that today's (March 23) data is incomplete because it's only as of 9:35 am. This is particularly relevant when looking at the trends in the plots below (total cases and new cases over time), because the last data point (in both plots) is very likely to go up once we get the data for the full day.
 
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
