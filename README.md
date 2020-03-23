@@ -19,7 +19,7 @@ March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Hea
 
 ### NYC cases over time
 
-Note that the March 23 data in two plots below is incomplete because it's only as of 9:25 am.
+Note that today's (March 23) data is incomplete because it's only as of 9:25 am. This is particularly relevant when looking at the trends in two plots below.
 
 <img src="images/nyc-covid-19-total-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 <img src="images/nyc-covid-19-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
