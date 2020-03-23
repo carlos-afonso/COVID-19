@@ -21,13 +21,17 @@ March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Hea
 
 <img src="images/nyc-covid-19-cases-total-and-new-line.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-### NYC cases by age group
+### NYC cases by Age Group
 
-<img src="images/nyc-covid-19-cases-by-age-group-bar.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+<img src="images/nyc-covid-19-cases-by-age-group.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-### NYC cases by sex
+### NYC cases by Sex
 
-<img src="images/nyc-covid-19-cases-by-sex-bar.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+<img src="images/nyc-covid-19-cases-by-sex.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+
+### NYC cases by Borough
+
+<img src="images/nyc-covid-19-cases-by-borough.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
 ### NYC official data and information sources
 
