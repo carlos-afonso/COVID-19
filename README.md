@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 22, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 23, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -8,16 +8,18 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-March 22, 2020: [News article](https://www1.nyc.gov/office-of-the-mayor/news/178-20/mayor-de-blasio-nypd-prepare-enforce-new-guidelines) from the Office of the Mayor of New York City says:
-> _As of 10:00 AM today, citywide, there are **9,654 positive cases of COVID-19 and 63 fatalities**. Currently there are 2,715 cases in Queens 2,072 in Manhattan, 2,857 in Brooklyn, 1,411 in the Bronx, and 593 in Staten Island. There are 63 confirmed COVID-related fatalities._
+March 23, 2020, 9:25 am: **12,339 cases and 99 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
 
 <!---
-March 21, 2020, 5:30 pm: 8,115 cases and 60 deaths in NYC, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
+March 22, 2020: [News article](https://www1.nyc.gov/office-of-the-mayor/news/178-20/mayor-de-blasio-nypd-prepare-enforce-new-guidelines) from the Office of the Mayor of New York City says:
+> _As of 10:00 AM today, citywide, there are **9,654 positive cases of COVID-19 and 63 fatalities**. Currently there are 2,715 cases in Queens 2,072 in Manhattan, 2,857 in Brooklyn, 1,411 in the Bronx, and 593 in Staten Island. There are 63 confirmed COVID-related fatalities._
 
 March 21, 2020, 4:14 pm: **6,211 cases in NYC**, according to New York State Health Department's [County Breakdown of COVID-19 Positive Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}.
 --->
 
 ### NYC cases over time
+
+Note that the March 23 data in two plots below is incomplete because it's only as of 9:25 am.
 
 <img src="images/nyc-covid-19-total-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 <img src="images/nyc-covid-19-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
