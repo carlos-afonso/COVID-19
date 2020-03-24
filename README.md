@@ -8,7 +8,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-March 23, 2020, 9:35 am: **12,339 cases and 99 deaths in NYC**, according to New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}.
+As of 5 pm on March 23, 2020, there are **13,119 cases and 125 deaths in NYC**, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} from the New York City Health Department.
 
 <!---
 March 22, 2020: [News article](https://www1.nyc.gov/office-of-the-mayor/news/178-20/mayor-de-blasio-nypd-prepare-enforce-new-guidelines) from the Office of the Mayor of New York City says:
