@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 23, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 24, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -8,7 +8,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest numbers
 
-As of 5 pm on March 23, 2020, there are **13,119 cases and 125 deaths in NYC**, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} from the New York City Health Department.
+As of 9:45 am on March 24, 2020, there are **14,776 COVID-19 cases and 131 deaths in NYC**, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} from the New York City Health Department.
 
 ### NYC cases over time
 
