@@ -11,13 +11,13 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 Latest COVID-19 numbers in NYC, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates from the New York City Health Department:
 
 | Update Date/Time        | Total Cases | Hospitalizations |     Deaths |
-| ----------------------- | ----------- | ---------------- | ---------- |
-| March 25, 2020, 9:15 am |      16,788 |     Not provided | 199 (1.2%) |
+| :---------------------- | ----------: | ---------------: | ---------: |
+| March 25, 2020, 9:15 am |      16,788 |     not provided | 199 (1.2%) |
 | March 24, 2020, 5:00 pm |      15,597 |    2,883 (18.5%) | 192 (1.2%) |
 
-Note: The charts below are currently showing the data from March 24, 2020, 5:00 pm. The charts are updated every evening (with the latest end-of-day data update).
+Note: The plots below are currently showing the data from March 24, 2020, 5:00 pm. The plots are updated every evening (with the latest end-of-day data update).
 
-### NYC cases over time
+### NYC cases over Time
 
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
@@ -38,7 +38,9 @@ Note: The charts below are currently showing the data from March 24, 2020, 5:00 
 New York City Department of Health:
 * [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
 * [COVID-19 Daily Data Summary (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}
+<!---
 * [COVID-19 Daily Death Data Summary (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf){:target="&#95;blank" rel="noopener"}
+--->
 
 New York State Department of Health:
 * [COVID-19 webpage](https://coronavirus.health.ny.gov){:target="&#95;blank" rel="noopener"}
