@@ -10,7 +10,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 Latest COVID-19 numbers in NYC, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates from the New York City Health Department:
 
-| Update Date/Time | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
+| Update Date | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
 | :---------------- | ---: | -----: | ------------: | ---------: |
 | March 25, 5:30 pm | 4,414| 20,011 | 3,922 (19.6%) | 280 (1.4%) |
 | March 24, 5:00 pm | 2,482| 15,597 | 2,883 (18.5%) | 192 (1.2%) |
