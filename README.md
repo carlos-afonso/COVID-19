@@ -10,13 +10,14 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 It's important to keep the following points in mind when looking at the data/plots below about the COVID-19 situation in NYC:
 
-* The data is from the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates from the New York City Health Department.
+* The data is collected from the "COVID-19 Daily Data Summary" updates available in the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
 
 * The data in preliminary and subject to change as cases continue to be investigated.
 
-* The data includes all cases treated in NYC, regardless of  residence status (i.e., it includes cases in NYC residents and foreign residents treated in NYC facilities).
+* The data includes all cases treated in NYC, regardless of residence status (i.e., it includes cases in NYC residents and foreign residents treated in NYC facilities).
+  * Currently, the data does not include a breakdown by residence status. So, we don't really know how many cases are NYC residents. However, earlier versions of the data included this residence status breakdown and the large majority of the cases were in NYC residents. So, it's reasonable to assume that, for the current data, the large majority of the cases are NYC residents.
 
-* Usually, the data is updated daily, up to twice a day, once in the morning (11 am) and once in the evening (7 pm). This webpage is updated every evening, with the evening (7 pm) data update, so that the plots show the data as of the end of the day. Each plot explicitly states the date/time of the data being displayed.
+* NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). This webpage is updated once a day, in the evening (with the evening, 7 pm, data update), so that the plots show the data as of the end of the day. Each plot explicitly states the date/time of the data being displayed.
 
 ### NYC latest numbers
 
