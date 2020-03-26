@@ -10,7 +10,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 It's important to keep the following points in mind when looking at the data/plots below about the COVID-19 situation in NYC:
 
-* The data is collected from the "COVID-19 Daily Data Summary" updates available in the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
+* The data is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
 
 * The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
 
@@ -18,7 +18,7 @@ It's important to keep the following points in mind when looking at the data/plo
 
 * The data contains information about the number of cases, hospitalizations, and deaths, with breakdowns by age group, sex, and borough.
 
-* The data in preliminary and subject to change as cases continue to be investigated.
+* The data is preliminary and subject to change as cases continue to be investigated.
 
 * It may take several days to get the result of a test.
 
@@ -26,20 +26,20 @@ It's important to keep the following points in mind when looking at the data/plo
 
 * The data includes all cases treated in NYC, regardless of residence status (i.e., it includes cases in NYC residents and foreign residents treated in NYC facilities). Currently, the data does not provide a breakdown by residence status. So, we don't really know how many cases are specifically in NYC residents. However, earlier versions of the data included the residence status breakdown and the large majority of the cases were in NYC residents. So, it seems reasonable to assume that, for the current data, the large majority of the cases are NYC residents.
 
-* Despite of the data limitations mentioned above, it's great that NYC Health tracks and provides this important data, and with frequent updates. Moreover, this is probably one of the best (if not the best) quality COVID-19 data across all of the US. So, I appreciate and I'm grateful for NYC Health's work.
+* Despite the data limitations mentioned above, it's great that NYC Health tracks and provides this important data, and with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States. So, I appreciate and I'm grateful for NYC Health's work.
 
 * NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). This webpage is updated once a day, in the evening (with the 7 pm data update), so that the plots show the end-of-day data. Each plot explicitly states the date/time of the data being displayed.
 
 ### NYC latest numbers
 
-Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}
+Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
 
 | Update Date | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
 | :---------------- | ---: | -----: | ------------: | ---------: |
 | March 25, 5:30 pm | 4,414| 20,011 | 3,922 (19.6%) | 280 (1.4%) |
 | March 24, 5:00 pm | 2,482| 15,597 | 2,883 (18.5%) | 192 (1.2%) |
 
-Note: The plots below show the data from March 25, 2020, 5:30 pm. The plots are updated every evening (with the end-of-day data).
+Note: The plots below show the data from March 25, 2020, 5:30 pm. The plots are updated every evening with the latest (end-of-day) data.
 
 ### NYC cases over Time
 
