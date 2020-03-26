@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 24, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 25, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -12,10 +12,10 @@ Latest COVID-19 numbers in NYC, according to the [COVID-19 Daily Data Summary](h
 
 | Update Date       | Total Cases | New Cases | Hospitalizations |     Deaths |
 | :---------------- | ----------: | --------: | ---------------: | ---------: |
-| March 25, 9:15 am |      16,788 |     1,191 |     not provided | 199 (1.2%) |
+| March 25, 5:30 pm |      20,011 |     4,414 |    3,922 (19.6%) | 280 (1.4%) |
 | March 24, 5:00 pm |      15,597 |     2,482 |    2,883 (18.5%) | 192 (1.2%) |
 
-Note: Currently, the plots below show the data from March 24, 2020, 5:00 pm. The plots are updated every evening (with the end-of-day data update).
+Note: The plots below show the data from March 25, 2020, 5:30 pm. The plots are updated every evening (with the end-of-day data update).
 
 ### NYC cases over Time
 
