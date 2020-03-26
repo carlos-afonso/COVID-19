@@ -14,7 +14,7 @@ It's important to keep the following points in mind when looking at the data/plo
 
 * The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
 
-* Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of positive COVID-19 cases.
+* Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of positive COVID-19 cases in NYC.
 
 * The data contains information about the number of cases, hospitalizations, and deaths, with breakdowns by age group, sex, and borough.
 
