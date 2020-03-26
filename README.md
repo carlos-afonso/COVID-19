@@ -6,6 +6,18 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ## New York City (NYC)
 
+### Important notes
+
+It's important to keep the following points in mind when looking at the data/plots below about the COVID-19 situation in NYC:
+
+* The data is from the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates from the New York City Health Department.
+
+* The data in preliminary and subject to change as cases continue to be investigated.
+
+* The data includes all cases treated in NYC, regardless of  residence status (i.e., it includes cases in NYC residents and foreign residents treated in NYC facilities).
+
+* Usually, the data is updated daily, up to twice a day, once in the morning (11 am) and once in the evening (7 pm). This webpage is updated every evening, with the evening (7 pm) data update, so that the plots show the data as of the end of the day. Each plot explicitly states the date/time of the data being displayed.
+
 ### NYC latest numbers
 
 Latest COVID-19 numbers in NYC, according to the [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates from the New York City Health Department:
