@@ -1,0 +1,6 @@
+date,total_cases,age_median,age_min,age_max,age_0_to_4,age_5_to_17,age_18_to_49,age_50_to_64,age_65_and_over,age_unknown,age_50_and_over,age_under_50,sex_female,sex_male,sex_unknown,borough_bronx,borough_brooklyn,borough_manhattan,borough_queens,borough_staten_island,borough_unknown,deaths
+2020-03-17,923,NA,NA,NA,0,25,457,211,230,NA,NA,NA,378,536,NA,106,236,290,248,42,1,10
+2020-03-18,2009,NA,NA,NA,5,42,1034,463,464,1,927,1081,850,1155,4,303,505,590,533,77,1,19
+2020-03-19,3954,NA,NA,NA,14,94,2117,926,800,3,1726,2225,1630,2315,9,496,1195,1038,1042,179,4,26
+2020-03-20,5683,45,0,105,26,131,3080,1330,1112,4,2442,3237,2317,3355,11,736,1740,1402,1514,285,6,43
+2020-03-21,8115,45,0,105,34,189,4456,1929,1502,5,3431,4679,3318,4787,10,1071,2484,1863,2254,437,6,60
