@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 25, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 26, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -34,12 +34,26 @@ It's important to keep the following points in mind when looking at the data/plo
 
 Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
 
-| Update Date | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
-| :---------------- | ---: | -----: | ------------: | ---------: |
-| March 25, 5:30 pm | 4,414| 20,011 | 3,922 (19.6%) | 280 (1.4%) |
-| March 24, 5:00 pm | 2,482| 15,597 | 2,883 (18.5%) | 192 (1.2%) |
+| Update Date | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
+| :---------------- | -------: | ------------------------: | --------------: |
+| March 24, 5:00 pm |   15,597 |             2,883 (18.5%) |      192 (1.2%) |
+| March 25, 5:30 pm |   20,011 |             3,922 (19.6%) |      280 (1.4%) |
+| March 26, 5:00 pm |   23,112 |             4,720 (20.4%) |      365 (1.6%) |
 
-Note: The plots below show the data from March 25, 2020, 5:30 pm. The plots are updated every evening with the latest (end-of-day) data.
+| Update Date       | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
+| :---------------- | -----------: | ----------------------: | ------------: |
+| March 25, 5:30 pm |        4,414 |                   1,039 |            88 |
+| March 26, 5:00 pm |        3,101 |                     798 |            85 |
+
+<!---
+| Update Date | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
+| :---------------- | ----: | -----: | ------------: | ---------: |
+| March 24, 5:00 pm | 2,482 | 15,597 | 2,883 (18.5%) | 192 (1.2%) |
+| March 25, 5:30 pm | 4,414 | 20,011 | 3,922 (19.6%) | 280 (1.4%) |
+| March 26, 5:00 pm | 3,101 | 23,112 | 4,720 (20.4%) | 365 (1.6%) |
+--->
+
+Note: The plots below show the data from March 26, 2020, 5:00 pm. The plots are updated every evening with the latest (end-of-day) data.
 
 ### NYC cases over Time
 
