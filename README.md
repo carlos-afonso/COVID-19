@@ -36,12 +36,14 @@ Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage]
 
 | Update Date | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
 | :---------------- | -------: | ------------------------: | --------------: |
+| March 23, 5:00 pm |   13,119 |              not provided |      125 (1.0%) |
 | March 24, 5:00 pm |   15,597 |             2,883 (18.5%) |      192 (1.2%) |
 | March 25, 5:30 pm |   20,011 |             3,922 (19.6%) |      280 (1.4%) |
 | March 26, 5:00 pm |   23,112 |             4,720 (20.4%) |      365 (1.6%) |
 
 | Update Date       | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
 | :---------------- | -----------: | ----------------------: | ------------: |
+| March 24, 5:00 pm |        2,478 |            not provided |            67 |
 | March 25, 5:30 pm |        4,414 |                   1,039 |            88 |
 | March 26, 5:00 pm |        3,101 |                     798 |            85 |
 
