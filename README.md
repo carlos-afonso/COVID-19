@@ -32,16 +32,16 @@ It's important to keep the following points in mind when looking at the data/plo
 
 Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
 
-| Update Date | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
-| :---------------- | -------: | ------------------------: | --------------: |
-| March 25, 5:30 pm |   20,011 |             3,922 (19.6%) |      280 (1.4%) |
-| March 26, 5:00 pm |   23,112 |             4,720 (20.4%) |      365 (1.6%) |
-| March 27, 4:00 pm |   26,697 |             5,039 (18.9%) |      450 (1.7%) |
+| Update Date | Total<br>Tests | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
+| :---------------- | -----: | -----: | ------------: | ---------: |
+| March 25, 5:30 pm |   n.a. | 20,011 | 3,922 (19.6%) | 280 (1.4%) |
+| March 26, 5:00 pm | 51,404 | 23,112 | 4,720 (20.4%) | 365 (1.6%) |
+| March 27, 4:00 pm |   n.a. | 26,697 | 5,039 (18.9%) | 450 (1.7%) |
 
-| Update Date       | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
-| :---------------- | -----------: | ----------------------: | ------------: |
-| March 26, 5:00 pm |        3,101 |                     798 |            85 |
-| March 27, 4:00 pm |        3,585 |                     319 |            85 |
+| Update Date | New<br>Tests | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
+| :---------------- | ---: | ----: | ---: | ---: |
+| March 26, 5:00 pm | n.a. | 3,101 |  798 |   85 |
+| March 27, 4:00 pm | n.a. | 3,585 |  319 |   85 |
 
 Note: The plots below show the data from March 27, 2020, 4:00 pm. The plots are updated every evening with the latest (end-of-day) data.
 
