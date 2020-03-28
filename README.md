@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 26, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 27, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -22,8 +22,6 @@ It's important to keep the following points in mind when looking at the data/plo
 
 * It may take several days to get the result of a test.
 
-* Currently, the data does not include information about the number of tests performed. This information would be particularly useful to better understand the evolution of the number of cases over time. Because, particularly in this initial stage, increasing the number of tests will very likely lead to an increase in the number of cases. So, some of the significant increases in the number of cases over time (plot below) may be partially explained by an increase in the testing capacity. For example, on March 17, a [news release from the Office of the Mayor](https://www1.nyc.gov/office-of-the-mayor/news/160-20/mayor-de-blasio-nyc-health-hospitals-bioreference-laboratories-expanded-capacity-to) announced an increase in the testing capacity in NYC, to allow 5,000 daily COVID-19 tests (starting March 19). So, some of the significant increases in the number of cases after March 19 may be partially explained by this new increased testing capacity.
-
 * The data includes all cases treated in NYC, regardless of residence status (i.e., it includes cases in NYC residents and foreign residents treated in NYC facilities). Currently, the data does not provide a breakdown by residence status. So, we don't really know how many cases are specifically in NYC residents. However, earlier versions of the data included the residence status breakdown and the large majority of the cases were in NYC residents. So, it seems reasonable to assume that, for the current data, the large majority of the cases are NYC residents.
 
 * Despite the data limitations mentioned above, it's great that NYC Health tracks and provides this important data, and with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States. So, I appreciate and I'm grateful for NYC Health's work.
@@ -36,28 +34,20 @@ Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage]
 
 | Update Date | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
 | :---------------- | -------: | ------------------------: | --------------: |
-| March 23, 5:00 pm |   13,119 |              not provided |      125 (1.0%) |
-| March 24, 5:00 pm |   15,597 |             2,883 (18.5%) |      192 (1.2%) |
 | March 25, 5:30 pm |   20,011 |             3,922 (19.6%) |      280 (1.4%) |
 | March 26, 5:00 pm |   23,112 |             4,720 (20.4%) |      365 (1.6%) |
+| March 27, 4:00 pm |   26,697 |             5,039 (18.9%) |      450 (1.7%) |
 
 | Update Date       | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
 | :---------------- | -----------: | ----------------------: | ------------: |
-| March 24, 5:00 pm |        2,478 |            not provided |            67 |
-| March 25, 5:30 pm |        4,414 |                   1,039 |            88 |
 | March 26, 5:00 pm |        3,101 |                     798 |            85 |
+| March 27, 4:00 pm |        3,585 |                     319 |            85 |
 
-<!---
-| Update Date | New<br>Cases | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
-| :---------------- | ----: | -----: | ------------: | ---------: |
-| March 24, 5:00 pm | 2,482 | 15,597 | 2,883 (18.5%) | 192 (1.2%) |
-| March 25, 5:30 pm | 4,414 | 20,011 | 3,922 (19.6%) | 280 (1.4%) |
-| March 26, 5:00 pm | 3,101 | 23,112 | 4,720 (20.4%) | 365 (1.6%) |
---->
-
-Note: The plots below show the data from March 26, 2020, 5:00 pm. The plots are updated every evening with the latest (end-of-day) data.
+Note: The plots below show the data from March 27, 2020, 4:00 pm. The plots are updated every evening with the latest (end-of-day) data.
 
 ### NYC cases over Time
+
+The number of total cases is expected to have an initial (potentially rapid) increase until it reaches a plateau. Nevertheless, some of the significant increases in the number of cases may be at least partially explained by an increase in the testing capacity. For example, on March 17, a [news release from the Office of the Mayor](https://www1.nyc.gov/office-of-the-mayor/news/160-20/mayor-de-blasio-nyc-health-hospitals-bioreference-laboratories-expanded-capacity-to) announced an increase in the testing capacity in NYC, to allow 5,000 daily COVID-19 tests (starting March 19). So, some of the significant increases in the number of cases in the first days after March 19 may be partially explained by this new increased testing capacity.
 
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
