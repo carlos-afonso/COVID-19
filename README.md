@@ -10,7 +10,7 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 It's important to keep the following points in mind when looking at the data/plots below about the COVID-19 situation in NYC:
 
-* The data is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}. I appreciate NYC Health's great work in tracking and providing this important data, with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States.
+* The data is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
 
 * The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
 
@@ -67,6 +67,8 @@ Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
 
 The data used to create the charts above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates.
+
+I appreciate NYC Health's great work in tracking and providing this important data, with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States.
 
 ---
 
