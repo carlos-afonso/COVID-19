@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 27, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 28, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -26,24 +26,16 @@ It's important to keep the following points in mind when looking at the data/plo
 
 * Despite the data limitations mentioned above, it's great that NYC Health tracks and provides this important data, and with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States. So, I appreciate and I'm grateful for NYC Health's work.
 
-* NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). This webpage is updated once a day, in the evening (with the 7 pm data update), so that the plots show the end-of-day data. Each plot explicitly states the date/time of the data being displayed.
+* NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). I try to update this webpage every night so that the plots show the evening (end-of-day) data. Each plot explicitly states the date/time of the data being displayed.
 
 ### NYC latest numbers
 
 Latest COVID-19 numbers in NYC, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
 
-| Update Date | Total<br>Tests | Total<br>Cases | Total<br>Hospitalizations | Total<br>Deaths |
-| :---------------- | -----: | -----: | ------------: | ---------: |
-| March 25, 5:30 pm |   n.a. | 20,011 | 3,922<br>(20% of cases) | 280<br>(1.4% of cases) |
-| March 26, 5:00 pm | 51,404 | 23,112<br>(45% of tests) | 4,720<br>(20% of cases) | 365<br>(1.6% of cases) |
-| March 27, 4:00 pm |   n.a. | 26,697 | 5,039<br>(19% of cases) | 450<br>(1.7% of cases) |
-
-| Update Date | New<br>Tests | New<br>Cases | New<br>Hospitalizations | New<br>Deaths |
-| :---------------- | ---: | ----: | ---: | ---: |
-| March 26, 5:00 pm | n.a. | 3,101 |  798 |   85 |
-| March 27, 4:00 pm | n.a. | 3,585 |  319 |   85 |
-
-Note: The plots below show the data from March 27, 2020, 4:00 pm. The plots are updated every evening with the latest (end-of-day) data.
+Total COVID-19 counts in NYC, as of **March 28, 2020, 4:00 pm**, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
+* 30,765 total cases
+* 6,287 total hospitalizations (20% of total cases)
+* 672 total deaths (2.2% of total cases)
 
 ### NYC cases over Time
 
@@ -67,9 +59,10 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 
 New York City Department of Health:
 * [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
-* [COVID-19 Daily Data Summary - Total Cases (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}
-* [COVID-19 Daily Data Summary - Deaths (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf){:target="&#95;blank" rel="noopener"}
-* [COVID-19 Daily Data Summary - Hospitalizations (.pdf)](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-hospitalizations.pdf){:target="&#95;blank" rel="noopener"}
+* [COVID-19 Daily Data Summary - Total Cases](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"}
+* [COVID-19 Daily Data Summary - Deaths](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf){:target="&#95;blank" rel="noopener"}
+* [COVID-19 Daily Data Summary - Hospitalizations](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-hospitalizations.pdf){:target="&#95;blank" rel="noopener"}
+* [Percent of Patients Testing Positive by Neighborhood in NYC](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-data-map.pdf){:target="&#95;blank" rel="noopener"}
 
 New York State Department of Health:
 * [COVID-19 webpage](https://coronavirus.health.ny.gov){:target="&#95;blank" rel="noopener"}
