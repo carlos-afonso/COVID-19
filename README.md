@@ -26,10 +26,10 @@ It's important to keep the following points in mind when looking at the data/plo
 
 ### NYC latest numbers
 
-Total COVID-19 counts in NYC, as of **March 28, 2020, 4:00 pm**, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
-* 30,765 total cases
-* 6,287 total hospitalizations (20% of total cases)
-* 672 total deaths (2.2% of total cases)
+Total COVID-19 counts in NYC, as of **March 29, 2020, 4:15 pm**, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
+* 33,474 total cases
+* 7,410 total hospitalizations (22% of total cases)
+* 776 total deaths (2.3% of total cases)
 
 ### NYC cases over Time
 
