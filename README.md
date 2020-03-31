@@ -68,8 +68,6 @@ Office of the Mayor of New York City:
 
 The data used to create the charts above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates.
 
-I appreciate NYC Health's great work in tracking and providing this important data, with frequent updates. This is probably one of the best quality COVID-19 data across all of the United States.
-
 ---
 
 This webpage is part of the [COVID-19 open-source GitHub project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}.
