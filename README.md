@@ -6,30 +6,19 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ## New York City (NYC)
 
-### Important notes
-
-It's important to keep the following points in mind when looking at the data/plots below about the COVID-19 situation in NYC:
-
-* The data is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
-
-* The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
-
-* Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
-
-* The data contains information about the number of cases, hospitalizations, and deaths, with breakdowns by age group, sex, and borough.
-
-* The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
-
-* The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
-
-* NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). I try to update this webpage every night so that the plots show the evening (end-of-day) data. Each plot explicitly states the date/time of the data being displayed.
-
 ### NYC latest numbers
 
-Total COVID-19 counts in NYC, as of **March 29, 2020, 4:15 pm**, collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}:
-* 33,474 total cases
-* 7,410 total hospitalizations (22% of total cases)
-* 776 total deaths (2.3% of total cases)
+March 30, 2020, 4:30 pm: Total COVID-19 counts in NYC:
+* 70,857 total tests
+* 38,087 total cases (54% of total tests)
+* 7,741 total hospitalizations (20% of total cases)
+* 914 total deaths (2.4% of total cases)
+
+<!---
+The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
+--->
+
+The numbers above and the data used to create the charts below were collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}
 
 ### NYC cases over Time
 
@@ -66,7 +55,19 @@ New York State Department of Health:
 Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
 
-The data used to create the charts above was collected from the New York City Health Department's [COVID-19 Daily Data Summary](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf){:target="&#95;blank" rel="noopener"} updates.
+### NYC data notes
+
+The data used to create the charts above is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
+
+The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
+
+Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
+
+The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
+
+The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
+
+NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). I try to update this webpage every night so that the plots show the evening (end-of-day) data. Each plot explicitly states the date/time of the data being displayed.
 
 ---
 
