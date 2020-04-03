@@ -1,0 +1,15 @@
+index,uc_yes,uc_no,uc_pending,total
+age_0_to_17,0,0,0,0
+age_18_to_44,23,1,8,32
+age_45_to_64,125,8,28,161
+age_65_to_74,125,2,31,158
+age_75_and_over,254,6,61,321
+sex_female,213,6,42,261
+sex_male,314,11,86,411
+borough_bronx,142,1,9,152
+borough_brooklyn,112,5,50,167
+borough_manhattan,71,2,20,93
+borough_queens,168,9,39,216
+borough_staten_island,33,0,10,43
+borough_unknown,1,0,0,1
+total,527,17,128,672
