@@ -6,19 +6,23 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ## New York City (NYC)
 
-### NYC latest numbers
+### NYC latest counts
 
-March 30, 2020, 4:30 pm: Total COVID-19 counts in NYC:
-* 70,857 total tests
-* 38,087 total cases (54% of total tests)
-* 7,741 total hospitalizations (20% of total cases)
-* 914 total deaths (2.4% of total cases)
+April 4, 2020, 5:00 pm: Total COVID-19 counts in NYC:
+* 104,096 total tests
+* 60,850 total cases (58% of total tests)
+* 12,716 total (estimated) hospitalizations (21% of total cases)
+* 2,254 total deaths (3.7% of total cases)
 
 <!---
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
 --->
 
 The numbers above and the data used to create the charts below were collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}
+
+### NYC new daily counts
+
+<img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
 ### NYC cases over Time
 
