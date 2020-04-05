@@ -22,7 +22,11 @@ The numbers above and the data used to create the charts below were collected fr
 
 ### NYC new daily counts
 
+<img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.png" style="max-height:90vh; height:auto; width:auto; margin:auto; display:block;">
+
+<!---
 <img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+--->
 
 ### NYC cases over Time
 
