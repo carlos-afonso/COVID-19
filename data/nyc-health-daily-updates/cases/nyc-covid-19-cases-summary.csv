@@ -1,0 +1,7 @@
+label,value
+date,2020-03-30
+time,17:00
+total_cases,60850
+age_median,50
+age_min,
+age_max,age_0_to_17,age_18_to_44,age_45_to_64,age_65_to_74,age_75_and_over,age_unknown,age_50_and_over,age_under_50,sex_female,sex_male,sex_unknown,borough_bronx,borough_brooklyn,borough_manhattan,borough_queens,borough_staten_island,borough_unknown,deaths
