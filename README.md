@@ -38,9 +38,11 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 
 <img src="images/nyc-covid-19-cases-by-age-group.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-### NYC cases by Sex
+### NYC rates by Sex
 
-<img src="images/nyc-covid-19-cases-by-sex.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+The plot below shows the NYC's COVID-19 case, hospitalization, and death rates by sex. More specifically, the total cases, total hospitalizations, and the total deaths by 100,000 people in each group (female, male, and all/everyone).
+
+<img src="images/nyc-covid-19-rates-by-sex.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
 ### NYC cases by Borough
 
