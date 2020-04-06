@@ -45,11 +45,17 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 
 ### NYC cases by Age Group
 
-<img src="images/nyc-covid-19-cases-by-age-group.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+<img src="images/nyc-covid-19-rates-by-age.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
 ### NYC rates by Sex
 
-The plot below shows the NYC's COVID-19 case, hospitalization, and death rates by sex. More specifically, the total cases, total hospitalizations, and the total deaths by 100,000 people in each group (female, male, and all/everyone).
+The charts below show NYC's COVID-19 rates by sex. More specifically the case rates, the hospitalization rates, and the death rates for each sex category (female, male, and all/everyone). Note that the rate is defined as the total count per 100,000 people. For example, the female case rate is defined as the total number of female COVID-19 cases in NYC per 100,000 females in NYC.
+
+The charts indicate that all COVID-19 rates (case, hospitalization, and death) are higher in males than in females. Moreover, the male/female relative difference grows from the case rate (933/713 = 1.3) to the hospitalization rate (229/140 = 1.6) to the death rate (43/23 = 1.9). 
+
+<!---
+Currently (Apr 6, 2020) there are 31,319 total female COVID-19 cases in NYC and it's estimated that the female population in NYC is around 4.4. million, thus the female COVID-19 rate is 713 per 100,000 people.
+--->
 
 <img src="images/nyc-covid-19-rates-by-sex.svg" style="max-height:90vh; height:auto; width:auto; margin:auto; display:block;">
 
