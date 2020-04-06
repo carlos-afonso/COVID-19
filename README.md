@@ -1,6 +1,6 @@
 # Visualizing COVID-19
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on March 30, 2020)</p>
+<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on April 6, 2020)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York City (NYC).
 
@@ -8,17 +8,24 @@ Visualizing the Coronavirus Disease 2019 (COVID-19), particularly in New York Ci
 
 ### NYC latest counts
 
+April 6, 2020, 5:00 pm: Total COVID-19 counts in NYC:
+* 68,776 total cases
+* 15,333 total (estimated) hospitalizations (22% of total cases)
+* 2,738 total deaths (4.0% of total cases)
+
+<!---
 April 4, 2020, 5:00 pm: Total COVID-19 counts in NYC:
 * 104,096 total tests
 * 60,850 total cases (58% of total tests)
 * 12,716 total (estimated) hospitalizations (21% of total cases)
 * 2,254 total deaths (3.7% of total cases)
+--->
 
 <!---
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
 --->
 
-The numbers above and the data used to create the charts below were collected from the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}
+The numbers above and the data used to create the charts below were collected from the [NYC Health COVID-19 data page](https://www1.nyc.gov/site/doh/covid/covid-19-data.page){:target="&#95;blank" rel="noopener"}
 
 ### NYC new daily counts
 
@@ -28,11 +35,13 @@ The numbers above and the data used to create the charts below were collected fr
 <img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
+<!---
 ### NYC cases over Time
 
 The number of total cases is expected to have an initial (potentially rapid) increase until it reaches a plateau. Nevertheless, some of the substantial increases in the number of cases may be at least partially explained by an increase in the testing capacity. For example, on March 17, a [news release from the Office of the Mayor](https://www1.nyc.gov/office-of-the-mayor/news/160-20/mayor-de-blasio-nyc-health-hospitals-bioreference-laboratories-expanded-capacity-to) announced an increase in the testing capacity in NYC, to allow 5,000 daily COVID-19 tests (starting March 19). So, some of the significant increases in the number of cases in the first days after March 19 may be partially explained by this new increased testing capacity.
 
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+--->
 
 ### NYC cases by Age Group
 
