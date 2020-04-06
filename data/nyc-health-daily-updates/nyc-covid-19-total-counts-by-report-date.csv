@@ -1,5 +1,6 @@
 date,time,total_tests,total_cases,total_hospitalizations,total_deaths
-2020-03-18,18:00,NA,2009,NA,19
+2020-03-17,18:00,NA,923,NA,10
+2020-03-18,17:30,NA,2009,NA,19
 2020-03-19,17:30,NA,3954,NA,26
 2020-03-20,17:30,NA,5683,NA,43
 2020-03-21,17:30,NA,8115,NA,60

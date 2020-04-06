@@ -3,3 +3,4 @@ _ignore/*
 data/nyc-health-daily-updates/cases/.ipynb_checkpoints/*
 images/.ipynb_checkpoints/*
 notebooks/.ipynb_checkpoints/*
+data/nychealth-coronavirus-data/.ipynb_checkpoints/*
