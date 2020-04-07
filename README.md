@@ -1,12 +1,12 @@
 # Visualizing COVID-19 in NYC
 
-<p style="font-size:80%;">(Updated by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a> on April 6, 2020)</p>
+<p style="font-size:80%;">(Updated on April 6, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, Data Scientist and New Yorker)</p>
 
 Visualizing the Coronavirus Disease 2019 (COVID-19) in New York City (NYC).
 
-As Data Scientist and New Yorker, I created this webpage to help understand the COVID-19 situation here in NYC, through clear data visualizations.
+This webpage aims to help understand the COVID-19 situation here in NYC, through clear data visualizations.
 
-The data presented here is from the New York City Department of Department (NYC Health).
+The data presented here is from the New York City Department of Health (NYC Health).
 
 ## Total Counts
 
@@ -17,7 +17,7 @@ Total COVID-19 counts in NYC as of April 6, 2020, 5:00 pm:
 
 The total number of COVID-19 tests performed in NYC is also an important information, but it's updated less frequently. The last update accounted for 104,096 total COVID-19 tests in NYC as of April 4, 2020, 5:00 pm.
 
-### New Daily Counts
+## New Daily Counts
 
 <img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.png" style="max-height:99vh; height:auto; width:auto; margin:auto; display:block;">
 
@@ -33,7 +33,7 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
-### NYC cases by Age Group
+## Rates by Age Group
 
 <!---
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
@@ -42,7 +42,7 @@ The large majority (98%) of the deaths were in people with underlying conditions
 
 <img src="images/nyc-covid-19-rates-by-age.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
-### NYC rates by Sex
+## Rates by Sex
 
 The charts below show NYC's COVID-19 rates by sex. More specifically the case rates, the hospitalization rates, and the death rates for each sex category (female, male, and all/everyone). Note that the rate is defined as the total count per 100,000 people. For example, the female case rate is defined as the total number of female COVID-19 cases in NYC per 100,000 females in NYC.
 
@@ -60,7 +60,7 @@ Currently (Apr 6, 2020) there are 31,319 total female COVID-19 cases in NYC and 
 <img src="images/nyc-covid-19-cases-by-borough.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
-### NYC official data and information sources
+### Official Data and Information Sources
 
 New York City Department of Health (NYC Health):
 * [COVID-19 webpage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
@@ -78,7 +78,7 @@ New York State Department of Health:
 Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
 
-### NYC data notes
+### Important Data Notes
 
 The data used to create the charts above is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
 
@@ -94,4 +94,4 @@ NYC Health usually updates the data twice a day, once in the morning (11 am) and
 
 ---
 
-This webpage is part of the [COVID-19 open-source GitHub project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}.
+This webpage is part of the [COVID-19 open-source GitHub project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}, Data Scientist and New Yorker.
