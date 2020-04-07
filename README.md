@@ -1,8 +1,10 @@
-# Visualizing COVID-19 in New York City (NYC)
+# Visualizing COVID-19 in NYC
 
-<p style="font-size:75%;">(Updated on April 6, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, Data Scientist, New Yorker)</p>
+<p style="font-size:75%;">(Updated on April 6, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, Data Scientist in NYC)</p>
 
-Helping understand the COVID-19 situation here in NYC, with clear visualizations of the data provided by NYC Health.
+Data visualizations and explanations to help understand the evolution and current status of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
+
+All data presented here is from the New York City Department of Health (NYC Health). The data details and limitations are discussed below.
 
 ## Total Counts
 
@@ -11,7 +13,9 @@ Total COVID-19 counts in NYC as of April 6, 2020, 5:00 pm:
 * 15,333 total hospitalizations (22% of total cases)
 * 2,738 total deaths (4.0% of total cases)
 
+<!----
 The testing counts are important too, but updated less frequently. The last update reported 104,096 total COVID-19 tests in NYC as of April 4, 2020, 5:00 pm.
+--->
 
 ## New Daily Counts
 
@@ -93,4 +97,4 @@ NYC Health usually updates the data twice a day, once in the morning (11 am) and
 
 ---
 
-This webpage is part of the [COVID-19 open-source GitHub project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}, Data Scientist and New Yorker.
+This webpage is part of the [COVID-19 open-source GitHub project](https://github.com/carlos-afonso/COVID-19){:target="&#95;blank" rel="noopener"}, created by [Carlos Afonso](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}, Data Scientist in NYC.
