@@ -1,12 +1,8 @@
-# Visualizing COVID-19 in NYC
+# Visualizing COVID-19 in New York City (NYC)
 
-<p style="font-size:80%;">(Updated on April 6, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, Data Scientist and New Yorker)</p>
+<p style="font-size:75%;">(Updated on April 6, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, Data Scientist, New Yorker)</p>
 
-Visualizing the Coronavirus Disease 2019 (COVID-19) in New York City (NYC).
-
-This webpage aims to help understand the COVID-19 situation here in NYC, through clear data visualizations.
-
-The data presented here is from the New York City Department of Health (NYC Health).
+Helping understand the COVID-19 situation here in NYC, with clear visualizations of the data provided by NYC Health.
 
 ## Total Counts
 
@@ -15,7 +11,7 @@ Total COVID-19 counts in NYC as of April 6, 2020, 5:00 pm:
 * 15,333 total hospitalizations (22% of total cases)
 * 2,738 total deaths (4.0% of total cases)
 
-The total number of COVID-19 tests performed in NYC is also an important information, but it's updated less frequently. The last update accounted for 104,096 total COVID-19 tests in NYC as of April 4, 2020, 5:00 pm.
+The testing counts are important too, but updated less frequently. The last update reported 104,096 total COVID-19 tests in NYC as of April 4, 2020, 5:00 pm.
 
 ## New Daily Counts
 
@@ -38,7 +34,6 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 <!---
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
 --->
-
 
 <img src="images/nyc-covid-19-rates-by-age.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 
