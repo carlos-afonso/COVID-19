@@ -15,7 +15,7 @@ The testing counts are important too, but updated less frequently. The last upda
 
 ## New Daily Counts
 
-<img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.png" style="max-height:99vh; height:auto; width:auto; margin:auto; display:block;">
+<img src="images/nyc-covid-19-new-daily-counts.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 <!---
 <img src="images/nyc-covid-19-new-daily-cases-hosps-deaths.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
@@ -35,7 +35,11 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
 --->
 
+<img src="images/nyc-covid-19-rates-by-age.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+<!---
 <img src="images/nyc-covid-19-rates-by-age.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
+--->
 
 ## Rates by Sex
 
@@ -47,7 +51,7 @@ The charts indicate that all COVID-19 rates (case, hospitalization, and death) a
 Currently (Apr 6, 2020) there are 31,319 total female COVID-19 cases in NYC and it's estimated that the female population in NYC is around 4.4. million, thus the female COVID-19 rate is 713 per 100,000 people.
 --->
 
-<img src="images/nyc-covid-19-rates-by-sex.svg" style="max-height:90vh; height:auto; width:auto; margin:auto; display:block;">
+<img src="images/nyc-covid-19-rates-by-sex.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 <!---
 ### NYC cases by Borough
