@@ -1,6 +1,6 @@
 # Visualizing COVID-19 in NYC
 
-<p style="font-size:75%;">(Updated on April 7, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
+<p style="font-size:70%;">(Updated on April 7, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
 
 Data visualizations and explanations to help understand the evolution and current status of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
 
