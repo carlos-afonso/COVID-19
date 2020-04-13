@@ -93,6 +93,7 @@ New York City Department of Health (NYC Health):
 * [COVID-19 data homepage](https://www1.nyc.gov/site/doh/covid/covid-19-data.page){:target="&#95;blank" rel="noopener"}
 * [COVID-19 data archive](https://www1.nyc.gov/site/doh/covid/covid-19-data-archive.page)
 * [COVID-19 data and technical notes on Github](https://github.com/nychealth/coronavirus-data)
+* [COVID-19 public health milestones](https://www1.nyc.gov/site/doh/covid/covid-19-goals.page)
 
 Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
