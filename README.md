@@ -7,8 +7,9 @@ Helping understand the evolution of the Coronavirus Disease 2019 (COVID-19) here
 ## 1. Percent of positive tests over time
 
 The **"percent of positive COVID-19 tests over time"** is arguably the best metric to help understand the evolution of the disease here in NYC, because:
-1. It's a simple metric, defined as the *"number of people who tested positive for COVID-19"* divided by the *"number of all people tests for COVID-19"*. Note that the result of this division is multiplied by 100 to transform it from a ratio to a percentage.
-2. By definition, this metric takes into consideration both the *"number of positive tests"* and the *"number of total tests"*. This is important because the number of (total) tests performed has not been constant over time.
+* It's a simple metric, defined as the *"number of people who tested positive for COVID-19"* divided by the *"number of all people tested for COVID-19"*.
+  * Note: the result of this division is multiplied by 100 to transform it from a ratio to a percentage.
+* By definition, this metric takes into consideration both the *"number of positive tests"* and the *"number of total tests"*. This is important because the number of (total) tests performed has not been constant over time.
 
 The chart below shows two complementary versions of this important metric, namely:
 * The **"percent of new daily positive COVID-19 tests by test date"** (in orange) defined as the *"number of (new) people who tested positive for COVID-19 (on that day)"* divided by the *"number of all people tests for COVID-19 (on that day)"*. This version shows the short temporal trend (i.e., the daily fluctuations).
