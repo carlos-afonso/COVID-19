@@ -1,18 +1,33 @@
 # Visualizing COVID-19 in NYC
 
-<p style="font-size:70%;">(Updated on April 7, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
+<p style="font-size:70%;">(Updated on April 13, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
 
 Data visualizations and explanations to help understand the evolution and current status of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
 
-All data presented here is from the New York City Department of Health (NYC Health). The data details and limitations are discussed below.
+The data presented here comes from two sources: New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
 
-## Total Counts
+## Total counts
 
-Total COVID-19 counts in NYC as of April 7, 2020, 5:00 pm:
-* 127,788 total tests
-* 74,601 total cases (58% of total tests)
-* 19,177 (estimated) total hospitalizations (26% of total cases)
-* 3,544 total deaths (4.8% of total cases)
+Total COVID-19 counts in NYC:
+* By Health Data NY, as of April 11:
+  * 204,398 total tests
+  * 103,208 total cases, i.e., total positive tests (50.5% of total tests)
+* By NYC Health, as of April 12, 5 pm:
+  * 104,410 total cases
+  * 27,676 (estimated) total hospitalizations (26.5% of total cases)
+  * 6,182 total deaths (5.9% of total cases)
+
+## Percent of positive tests over time
+
+<img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+## New daily total and positive tests over time
+
+<img src="images/nyc-covid-19-new-daily-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+## Cumulative total and positive tests over time
+
+<img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 ## New Daily Counts
 
