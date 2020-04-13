@@ -2,9 +2,9 @@
 
 <p style="font-size:70%;">(Updated on April 13, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
 
-Data visualizations and explanations to help understand the evolution and current status of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
+Helping understand the evolution of the Coronavirus Disease 2019 (COVID-19) in New York City (NYC), through data visualizations.
 
-The data presented here comes from two sources: the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
+The data presented here is sourced from the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
 
 ## Total counts
 
@@ -28,19 +28,21 @@ Note: The City (NYC Health) and the State (Health Data NY) counts are different 
 The State is faster in including new counts in its data reports but less accurate in the date attribution. While the City is more accurate in the date attribution but slower in including new counts in its data (because it takes extra time to do a better date attribution). Because of this, for data released on the same day, the State counts are usually higher than the City counts.
 --->
 
-## Percent of positive tests over time
+## Test and cases over time
+
+### Percent of positive tests over time
 
 <img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
-## New daily total and positive tests over time
+### New daily tests over time
 
 <img src="images/nyc-covid-19-new-daily-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
-## Cumulative total and positive tests over time
+### Cumulative tests over time
 
 <img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
-## New Daily Counts
+## New daily cases, hospitalizations, and deaths
 
 <img src="images/nyc-covid-19-new-daily-counts.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
@@ -56,7 +58,9 @@ The number of total cases is expected to have an initial (potentially rapid) inc
 <img src="images/nyc-covid-19-total-and-new-cases-over-time.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
-## Rates by Age Group
+## Rates
+
+### Rates by Age Group
 
 <!---
 The large majority (98%) of the deaths were in people with underlying conditions (Diabetes, Lung Disease, Cancer, Immunodeficiency, Heart Disease, Hypertension, Asthma, Kidney Disease, or GI/Liver Disease.)
@@ -68,7 +72,7 @@ The large majority (98%) of the deaths were in people with underlying conditions
 <img src="images/nyc-covid-19-rates-by-age.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
-## Rates by Sex
+### Rates by Sex
 
 The charts below show NYC's COVID-19 rates by sex. More specifically the case rates, the hospitalization rates, and the death rates for each sex category (female, male, and all/everyone). Note that the rate is defined as the total count per 100,000 people. For example, the female case rate is defined as the total number of female COVID-19 cases in NYC per 100,000 females in NYC.
 
@@ -86,7 +90,25 @@ Currently (Apr 6, 2020) there are 31,319 total female COVID-19 cases in NYC and 
 <img src="images/nyc-covid-19-cases-by-borough.svg" style="max-width:500px; width:98%; height:auto; margin:auto; display:block;">
 --->
 
-## Official Data and Information Sources
+## Notes
+
+### Important Data Notes
+
+The data presented here is sourced from the New York City Department of Health (NYC Health) and the New York State Department of Health (Health Data NY) -- the links are presented below.
+
+Both data sources are usually updated on a daily basis. I try to update this webpage every night, with the latest end-of-day date.
+
+The data used to create the charts above is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
+
+The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
+
+Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
+
+The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
+
+The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
+
+### Official Data and Information Sources
 
 New York City Department of Health (NYC Health):
 * [COVID-19 homepage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
@@ -103,20 +125,6 @@ New York State Department of Health:
 * [Statewide COVID-19 testing data (Health Data NY)](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e){:target="&#95;blank" rel="noopener"}
 * [COVID-19 tracker (map)](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map){:target="&#95;blank" rel="noopener"}
 * [Press releases](https://health.ny.gov/press/releases/2020/index.htm){:target="&#95;blank" rel="noopener"}
-
-## Important Data Notes
-
-The data used to create the charts above is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
-
-The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
-
-Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
-
-The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
-
-The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
-
-NYC Health usually updates the data twice a day, once in the morning (11 am) and once in the evening (7 pm). I try to update this webpage every night so that the plots show the evening (end-of-day) data. Each plot explicitly states the date/time of the data being displayed.
 
 ---
 
