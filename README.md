@@ -1,10 +1,30 @@
 # Visualizing COVID-19 in NYC
 
-<p style="font-size:70%;">(Updated on April 13, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</p>
+<p style="font-size:70%;"><i>(Updated on April 13, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</i></p>
 
-Helping understand the evolution of the Coronavirus Disease 2019 (COVID-19) in New York City (NYC), through data visualizations.
+Helping understand the evolution of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC), through data visualizations.
 
-The data presented here is sourced from the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
+## 1. Percent of positive tests over time
+
+The **percent of positive COVID-19 tests over time** is arguably the best metric to help understand the evolution of the disease here in NYC, because:
+1. It's a simple metric, defined as the *number of people who tested positive for COVID-19* divided by the *number of all people tests for COVID-19*. Note that the result of this division is multiplied by 100 to transform it from a ratio to a percentage.
+2. By definition, this metric takes into consideration both the *number of positive tests* and the *number of total tests*. This is important because the number of (total) tests has not been constant over time. This is shown and discussed in the next chart.
+
+### 1.1. Percent of new daily positive tests over time
+
+The first of the two charts below shows both the *number of new daily total COVID-19 tests* (in green) and the *number of new daily positive COVID-19 tests* (in blue) *by test date*. There has been a progress increase in the number of total tests over time. The number of positives has grown along with the number of total tests (as expected). However, a piece of good news is that, when compared with the total tests (green line), the new positives (blue line) seems to have been growing at a lower pace recently. This important piece of information is captured in the second chart.
+
+Indeed, the second chart shows the **percent of new daily positive COVID-19 tests by test date** (in orange) which is defined has the *number of new daily positive COVID-19 tests* divided by the *number of new daily total COVID-19 tests* (i.e., the ratio of the two lines in the first chart: the blue line divided by the green line) -- multiplied by 100 to transform the ratio into a percentage. Note how after an initial progressive increase, the percent of new positive tests (orange line) has been decreasing recently. This is the same piece of good news as in the first chart, but this second chart makes it more clear.
+
+<img src="images/nyc-covid-19-new-daily-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+### 1.2. Percent of cumulative positive tests as of test date
+
+<img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+### 1.3. Percent of positive tests over time
+
+<img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 ## Total counts
 
@@ -27,20 +47,6 @@ Note: The City (NYC Health) and the State (Health Data NY) counts are different 
 <!---
 The State is faster in including new counts in its data reports but less accurate in the date attribution. While the City is more accurate in the date attribution but slower in including new counts in its data (because it takes extra time to do a better date attribution). Because of this, for data released on the same day, the State counts are usually higher than the City counts.
 --->
-
-## Test and cases over time
-
-### Percent of positive tests over time
-
-<img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
-
-### New daily tests over time
-
-<img src="images/nyc-covid-19-new-daily-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
-
-### Cumulative tests over time
-
-<img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 ## New daily cases, hospitalizations, and deaths
 
@@ -93,6 +99,8 @@ Currently (Apr 6, 2020) there are 31,319 total female COVID-19 cases in NYC and 
 ## Notes
 
 ### Important Data Notes
+
+The data presented here is sourced from the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
 
 The data presented here is sourced from the New York City Department of Health (NYC Health) and the New York State Department of Health (Health Data NY) -- the links are presented below.
 
