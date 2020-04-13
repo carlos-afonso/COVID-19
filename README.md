@@ -4,18 +4,28 @@
 
 Data visualizations and explanations to help understand the evolution and current status of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
 
-The data presented here comes from two sources: New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
+The data presented here comes from two sources: the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
 
 ## Total counts
 
 Total COVID-19 counts in NYC:
-* By Health Data NY, as of April 11:
-  * 204,398 total tests
-  * 103,208 total cases, i.e., total positive tests (50.5% of total tests)
-* By NYC Health, as of April 12, 5 pm:
-  * 104,410 total cases
-  * 27,676 (estimated) total hospitalizations (26.5% of total cases)
+* reported by the City (NYC Health), as of April 12, 5 pm:
+  * 178,917 total tests
+  * 104,410 total cases (58% of total tests)
+  * 27,676 (estimated) total hospitalizations (27% of total cases)
   * 6,182 total deaths (5.9% of total cases)
+* reported by the State (Health Data NY), as of April 11:
+  * 204,398 total tests
+  * 103,208 total cases (50% of total tests)
+<!---
+  * 6,898 total deaths (as of April 12, 12:30 pm)
+--->
+
+Note: The City (NYC Health) and the State (Health Data NY) counts are different because they use different reporting methodologies.
+
+<!---
+The State is faster in including new counts in its data reports but less accurate in the date attribution. While the City is more accurate in the date attribution but slower in including new counts in its data (because it takes extra time to do a better date attribution). Because of this, for data released on the same day, the State counts are usually higher than the City counts.
+--->
 
 ## Percent of positive tests over time
 
@@ -86,7 +96,8 @@ New York City Department of Health (NYC Health):
 * [Percent of Patients Testing Positive by Neighborhood in NYC](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-data-map.pdf){:target="&#95;blank" rel="noopener"}
 
 New York State Department of Health:
-* [New York State Statewide COVID-19 Testing Data](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e)
+* [Statewide COVID-19 Testing Data](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e){:target="&#95;blank" rel="noopener"}
+* [COVID-19 Tracker](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map){:target="&#95;blank" rel="noopener"}
 * [COVID-19 webpage](https://coronavirus.health.ny.gov){:target="&#95;blank" rel="noopener"}
 * [County Breakdown of Positive COVID-19 Cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases){:target="&#95;blank" rel="noopener"}
 * [Press Releases](https://health.ny.gov/press/releases/2020/index.htm){:target="&#95;blank" rel="noopener"}
