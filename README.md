@@ -17,6 +17,7 @@ Total COVID-19 counts in NYC:
 * reported by the State (Health Data NY), as of April 11:
   * 204,398 total tests
   * 103,208 total cases (50% of total tests)
+
 <!---
   * 6,898 total deaths (as of April 12, 12:30 pm)
 --->
@@ -91,7 +92,7 @@ New York City Department of Health (NYC Health):
 * [COVID-19 homepage](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page){:target="&#95;blank" rel="noopener"}
 * [COVID-19 data homepage](https://www1.nyc.gov/site/doh/covid/covid-19-data.page){:target="&#95;blank" rel="noopener"}
 * [COVID-19 data archive](https://www1.nyc.gov/site/doh/covid/covid-19-data-archive.page)
-* [COVID-19 case data and technical notes on Github](https://github.com/nychealth/coronavirus-data)
+* [COVID-19 data and technical notes on Github](https://github.com/nychealth/coronavirus-data)
 
 Office of the Mayor of New York City:
 * [Latest News](https://www1.nyc.gov/office-of-the-mayor/news.page){:target="&#95;blank" rel="noopener"}
