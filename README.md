@@ -16,17 +16,23 @@ The chart below shows two complementary versions of this important metric, namel
 
 <img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
-Each of the two lines/metrics in the chart above is explained in more detail in the next two charts (sections 1.1 and 1.2).
+The two lines/metrics in the chart above are explained in more detail in the next two charts (sections 1.1 and 1.2).
 
 ### 1.1. Percent of new daily positive COVID-19 tests over time
 
-The first of the two charts below shows both the *number of new daily total COVID-19 tests* (in green) and the *number of new daily positive COVID-19 tests* (in blue) *by test date*. There has been a progressive increase in the number of total tests over time. The number of positives has grown along with the number of total tests (as expected). However, a piece of good news is that, when compared with the total tests (green line), the new positives (blue line) seems to have been growing at a lower pace recently. This important piece of information is captured in the second chart.
+The next figure has two charts. The first/top chart shows both the *"number of new daily total COVID-19 tests"* (in green) and the *"number of new daily positive COVID-19 tests"* (in blue) *"by test date"*. There has been a progressive increase in the number of total tests over time. The number of positives has grown along with the number of total tests (which is expected). However, a piece of good news is that, when compared with the total tests (green line), the new positives (blue line) seems to have been growing at a lower pace recently. This important piece of information is better captured in the figure's second/bottom chart.
 
-Indeed, the second chart shows the **percent of new daily positive COVID-19 tests by test date** (in orange) which is defined has the *number of new daily positive COVID-19 tests* divided by the *number of new daily total COVID-19 tests* (i.e., the ratio of the two lines in the first chart: the blue line divided by the green line) -- multiplied by 100 to transform the ratio into a percentage. Note how after an initial progressive increase, the percent of new positive tests (orange line) has been decreasing recently. This is the same piece of good news as in the first chart, but this second chart makes it more clear.
+Indeed, the second/bottom chart shows the **"percent of new daily positive COVID-19 tests by test date"** (in orange) which is defined has the *"number of new daily positive COVID-19 tests"* divided by the *"number of new daily total COVID-19 tests"* (i.e., the ratio of the two lines in the first chart: the blue line divided by the green line) -- multiplied by 100 to transform the ratio into a percentage. Note how after an initial progressive increase, the percent of new positive tests (orange line) has been decreasing recently. This is the same piece of good news as already seen in the first/top chart, but now the second/bottom chart makes it more clear.
 
 <img src="images/nyc-covid-19-new-daily-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 ### 1.2. Percent of cumulative positive COVID-19 tests over time
+
+The next figure is the cumulative version of the previous figure.
+
+The next figure has two charts. The first/top chart shows both the *"number of cumulative total COVID-19 tests"* (in green) and the *"number of cumulative positive COVID-19 tests"* (in blue) *"as of the test date"*. There has been a progressive increase in the number of total tests (green) over time. The number of positives (blue) has grown along with the number of total tests (as expected). However, a piece of good news is that, when compared with the total tests (green line), the new positives (blue line) seems to have been growing at a lower pace recently. This important piece of information is better captured in the figure's second/bottom chart.
+
+Indeed, the second/bottom chart shows the **"percent of cumulative positive COVID-19 tests as of the test date"** (in orange) which is defined has the *"number of cumulative positive COVID-19 tests"* divided by the *"number of cumulative total COVID-19 tests"* (i.e., the ratio of the two lines in the first chart: the blue line divided by the green line) -- multiplied by 100 to transform the ratio into a percentage. Note how after an initial progressive increase, the percent of new positive tests (orange line) has been decreasing recently. This is the same piece of good news as in the first/top chart, but now the second/bottom chart makes it more clear.
 
 <img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
@@ -36,7 +42,7 @@ The chart below shows the new daily COVID-19 cases (i.e., positive tests), hospi
 
 <img src="images/nyc-covid-19-new-daily-counts.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
-## 3. COVID-19 rates by demographic groups
+## 3. Demographic breakdowns of COVID-19 in NYC
 
 ### 3.1. COVID-19 rates by age group
 
