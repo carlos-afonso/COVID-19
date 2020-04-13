@@ -6,9 +6,17 @@ Helping understand the evolution of the Coronavirus Disease 2019 (COVID-19) here
 
 ## 1. Percent of positive tests over time
 
-The **percent of positive COVID-19 tests over time** is arguably the best metric to help understand the evolution of the disease here in NYC, because:
-1. It's a simple metric, defined as the *number of people who tested positive for COVID-19* divided by the *number of all people tests for COVID-19*. Note that the result of this division is multiplied by 100 to transform it from a ratio to a percentage.
-2. By definition, this metric takes into consideration both the *number of positive tests* and the *number of total tests*. This is important because the number of (total) tests has not been constant over time. This is shown and discussed in the next chart.
+The **"percent of positive COVID-19 tests over time"** is arguably the best metric to help understand the evolution of the disease here in NYC, because:
+A.  It's a simple metric, defined as the *"number of people who tested positive for COVID-19"* divided by the *"number of all people tests for COVID-19"*. Note that the result of this division is multiplied by 100 to transform it from a ratio to a percentage.
+B.  By definition, this metric takes into consideration both the *"number of positive tests"* and the *"number of total tests"*. This is important because the number of (total) tests has not been constant over time.
+
+The chart below shows two complementary versions of this important metric, namely:
+* The **"percent of new daily positive COVID-19 tests by test date"** (in orange) defined as ...
+* The **"percent of cumulative positive COVID-19 tests as of test date"** (in purple) defined as ...
+
+<img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
+
+The two charts below (sections 1.1 and 1.2) show in
 
 ### 1.1. Percent of new daily positive tests over time
 
@@ -21,10 +29,6 @@ Indeed, the second chart shows the **percent of new daily positive COVID-19 test
 ### 1.2. Percent of cumulative positive tests as of test date
 
 <img src="images/nyc-covid-19-cumulative-tests-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
-
-### 1.3. Percent of positive tests over time
-
-<img src="images/nyc-covid-19-positive-pct-over-time.svg" style="max-height:95vh; height:auto; width:auto; margin:auto; display:block;">
 
 ## Total counts
 
