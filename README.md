@@ -1,6 +1,6 @@
 # Visualizing COVID-19 in NYC
 
-<p style="font-size:70%;"><i>(Updated on April 13, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</i></p>
+<p style="font-size:70%;"><i>(Updated on April 15, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</i></p>
 
 Data visualizations to help understand the evolution of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
 
@@ -60,21 +60,15 @@ The charts indicate that all COVID-19 rates (case, hospitalization, and death) a
 
 ### 4.1. Important Data Notes
 
-The data presented here is sourced from the New York State Department of Health (Health Data NY), and the New York City Department of Health (NYC Health). The data details and limitations of the data are discussed below.
-
 The data presented here is sourced from the New York City Department of Health (NYC Health) and the New York State Department of Health (Health Data NY) -- the links are presented below.
 
-Both data sources are usually updated on a daily basis. I try to update this webpage every night, with the latest end-of-day date.
+Both data sources are usually updated on a daily basis. I try to update this webpage at least once a week, with the latest available data.
 
-The data used to create the charts above is collected from the "COVID-19 Daily Data Summary" updates available on the [NYC Health COVID-19 webpage](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="&#95;blank" rel="noopener"}.
-
-The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
-
-Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
-
-The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
-
-The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
+Important data limitations:
+* The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
+* Due to public health guidance that people with mild illness stay home, the data may not reflect the true number of all positive COVID-19 cases in NYC.
+* The data is preliminary and subject to change as cases continue to be investigated. It may take several days to get the result of a test.
+* The data includes all cases treated in NYC, regardless of residence status. Nevertheless, it seems reasonable to assume that the large majority of the cases are NYC residents.
 
 ### 4.2. Official Data and Information Sources
 
