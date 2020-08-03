@@ -60,9 +60,7 @@ The charts indicate that all COVID-19 rates (case, hospitalization, and death) a
 
 ### 4.1. Important Data Notes
 
-The data presented here is sourced from the New York City Department of Health (NYC Health) and the New York State Department of Health (Health Data NY) -- the links are presented below.
-
-Both data sources are usually updated on a daily basis. I try to update this webpage at least once a week, with the latest available data.
+The data presented here is sourced from the New York City Department of Health (NYC Health) and the New York State Department of Health (Health Data NY) -- the links are presented below. Both data sources are usually updated on a daily basis.
 
 Important data limitations:
 * The data includes information about (only) the confirmed cases of people who tested positive for COVID-19 in NYC.
