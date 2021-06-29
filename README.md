@@ -2,6 +2,8 @@
 
 <p style="font-size:70%;"><i>(Updated on April 15, 2020, by <a href="https://www.linkedin.com/in/carlos-afonso-w" target="&#95;blank" rel="noopener">Carlos Afonso</a>, a Data Scientist in NYC)</i></p>
 
+**Important Note:** This project was done in the beginning of the COVID-19 pandemic (March - April 2020) when the quantity and quality of data available was relativelly poor. This project is a good example of how to deal with such situations of poor data. In particular, how to pick the most appropriate metrics to better understand the problem at hand, how to visualize those metrics, and how to highlight the data limitations directly in data visualizations. This project was last updated on April 15, 2020.
+
 Data visualizations to help understand the evolution of the Coronavirus Disease 2019 (COVID-19) here in New York City (NYC).
 
 ## 1. Percent of positive COVID-19 tests over time
